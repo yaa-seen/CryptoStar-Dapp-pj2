@@ -1,6 +1,6 @@
 
 # Asset	Details
-truffle-hdwallet-provider : 1.0.17
+truffle-hdwallet-provider : 1.0.17 \\
 openzeppelin-solidity : 2.3.0
 ERC-721 Token Name	: Stellar
 ERC-721 Token Symbol :	STR
